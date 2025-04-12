@@ -6,8 +6,8 @@ Plan and organize your events effortlessly!
 
 ### 🏠 Homepage
 
-![Homepage Screenshot](./sample_images/Event Planner1.png)
+![Homepage Screenshot](./sample_images/EventPlanner1.png)
 
 ### ⭐ Section 2
-![Features Screenshot](./sample_images/Event Planner2.png)
+![Features Screenshot](./sample_images/EventPlanner2.png)
 
